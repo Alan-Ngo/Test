@@ -1,1 +1,1 @@
-from master
+from masters
